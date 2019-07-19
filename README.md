@@ -1,5 +1,5 @@
 ```
-docker-compose up -d nginx workspace mysql phpmyadmin redis
+docker-compose up -d nginx workspace mysql phpmyadmin redis redis-webui
 ```
 
 ```
